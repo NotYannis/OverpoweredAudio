@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{bf778c36-c27e-4485-9284-5cb5102df0b7}">
+        <property name="assetPath">
+            <value>Day_ambiance.wav</value>
+        </property>
+        <property name="isStreaming">
+            <value>true</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>19.645354166666667</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{dcc1f72c-08ee-4da3-8a11-165a9c394097}</destination>
+        </relationship>
+    </object>
+</objects>

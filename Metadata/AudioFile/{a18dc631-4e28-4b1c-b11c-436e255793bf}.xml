@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{a18dc631-4e28-4b1c-b11c-436e255793bf}">
+        <property name="assetPath">
+            <value>Trees/Fruit_fall_4.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>0.124875</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{dcc1f72c-08ee-4da3-8a11-165a9c394097}</destination>
+        </relationship>
+    </object>
+</objects>

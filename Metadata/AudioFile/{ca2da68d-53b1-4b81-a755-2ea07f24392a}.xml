@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{ca2da68d-53b1-4b81-a755-2ea07f24392a}">
+        <property name="assetPath">
+            <value>Spray/Spray_waves_01.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>48</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>4.976</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{dcc1f72c-08ee-4da3-8a11-165a9c394097}</destination>
+        </relationship>
+    </object>
+</objects>

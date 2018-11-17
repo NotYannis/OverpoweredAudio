@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="EncodableAsset" id="{0c0c0511-f056-4797-b6d4-5edc18174a94}">
+        <property name="assetPath">
+            <value>GPE/</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{dcc1f72c-08ee-4da3-8a11-165a9c394097}</destination>
+        </relationship>
+    </object>
+</objects>

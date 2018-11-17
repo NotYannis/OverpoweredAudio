@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{2de2e36c-34d4-44dc-9876-8376132d803d}">
+        <property name="name">
+            <value>Spray</value>
+        </property>
+        <relationship name="folder">
+            <destination>{4e096bfc-22b2-42e4-b6ce-75862d3ba9be}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{1b33af16-b595-4127-bcbf-e3ecd01fd7f6}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{1b33af16-b595-4127-bcbf-e3ecd01fd7f6}">
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+        <property name="seekSpeed">
+            <value>4</value>
+        </property>
+        <property name="seekSpeedDescending">
+            <value>0.30000001192092896</value>
+        </property>
+        <property name="seekSpeedAsymmetric">
+            <value>true</value>
+        </property>
+    </object>
+</objects>

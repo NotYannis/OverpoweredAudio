@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{1e1d9bc5-9424-4585-b0a5-75f5d0c48076}">
+        <property name="name">
+            <value>Jet_Hold</value>
+        </property>
+        <relationship name="folder">
+            <destination>{4e096bfc-22b2-42e4-b6ce-75862d3ba9be}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{cd355c4a-0a6e-4689-ab4b-c459c38fe619}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{cd355c4a-0a6e-4689-ab4b-c459c38fe619}">
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+    </object>
+</objects>

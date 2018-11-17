@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="ParameterPreset" id="{9c7d758d-f11a-433d-8310-4ba1805d4b58}">
+        <property name="name">
+            <value>Trees_nb</value>
+        </property>
+        <relationship name="folder">
+            <destination>{4e096bfc-22b2-42e4-b6ce-75862d3ba9be}</destination>
+        </relationship>
+        <relationship name="parameter">
+            <destination>{67abd749-669f-4fc6-b927-44a287e807c1}</destination>
+        </relationship>
+    </object>
+    <object class="GameParameter" id="{67abd749-669f-4fc6-b927-44a287e807c1}">
+        <property name="maximum">
+            <value>100</value>
+        </property>
+        <property name="initialValue">
+            <value>0</value>
+        </property>
+    </object>
+</objects>
